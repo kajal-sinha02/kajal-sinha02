@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Sinha</h1>
 
-<h4 align="center">**I'm a passionate tech enthusiast who loves to code and explore new technologies.**</h4>
+<h4 align="center">I'm a passionate tech enthusiast who loves to code and explore new technologies</h4>
 
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about web development, backend technologies, or college life as a developer.
   
 - 🤔 I’m looking forward to explore machine learning and artificial intelligence.
-- 
+  
 
 <h2>Connect with me</h2>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 </p>
 
 
-Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊
+<h3>Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊 </h3>
 
 
 
