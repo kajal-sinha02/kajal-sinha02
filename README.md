@@ -3,11 +3,10 @@
 <script src="https://kit.fontawesome.com/e40b1abb98.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <!-- Your Markdown content here -->
-<center>
-  # Hi there! 👋 I'm Kajal
+ 
 
-</center>
+# Hi there! 👋 I'm Kajal
+
 
 **I'm a passionate tech enthusiast who loves to code and explore new technologies.**
 
