@@ -1,6 +1,6 @@
 <html>
 <head>
-
+<script src="https://kit.fontawesome.com/e40b1abb98.js" crossorigin="anonymous"></script>
 </head>
 <body>
  
@@ -40,12 +40,7 @@ Copy code
     <!-- Your Markdown content here -->
 </body>
 </html>
-Replace YOUR_KIT_ID with your actual Kit ID.
 
-Create icon links for Instagram, LinkedIn, and email using HTML. You can use Font Awesome icons for Instagram and LinkedIn. For email, you can use the "@" symbol as an icon. Here's an example of how to create these links:
-
-markdown
-Copy code
 <a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==">
     <i class="fab fa-instagram"></i> Instagram
 </a>
