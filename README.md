@@ -1,8 +1,11 @@
+<script src="https://kit.fontawesome.com/e40b1abb98.js" crossorigin="anonymous"></script>
+<center>
+
 # Hi there! 👋 I'm Kajal
 
-# Welcome to my GitHub profile! 
+</center>
 
-**I'm a passionate tech enthusiast who loves to code and explore new technologies. Here, you'll find about my projects and interests.**
+**I'm a passionate tech enthusiast who loves to code and explore new technologies.**
 
 <!--
 **kajal-sinha02/kajal-sinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +17,21 @@ Here are some ideas to get you started:-->
 # About Me
 
 - 🌱 I’m currently a 2-year college student, passionate about **web and app backend development**.
-- 👯 I’m looking to collaborate on interesting web and app projects or backend development tasks.
-- 🤔 I’m looking for help with getting started in machine learning and artificial intelligence.
 - 💬 Ask me about web development, backend technologies, or college life as a developer.
-- 📫 How to reach me:
-  
-   You can reach me via email at **kajal.sinha@yahoo.com**
-  
-   You can reach me via linked.in at **https://www.linkedin.com/in/kajal-sinha-37084b257**.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love solving sudoku puzzles and enjoy sports in my free time!
+- 🤔 I’m looking for help with getting started in machine learning and artificial intelligence.
+
+<h2>Connect with me</h2> 
+  <a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==">
+    <i class="fab fa-instagram"></i>
+</a>
+<a href="https://www.linkedin.com/in/kajal-sinha-37084b257">
+    <i class="fab fa-linkedin"></i>
+</a>
+<a href="mailto:kajal.sinha@yahoo.com">
+    <i class="fas fa-at"></i> 
+</a>
+
+Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊
+
 
 
