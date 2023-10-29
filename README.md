@@ -39,7 +39,7 @@ Feel free to connect with me; I'm always up for a good coding conversation or sh
 
 </body>
 </html>
-<center>
+
 
 
 
