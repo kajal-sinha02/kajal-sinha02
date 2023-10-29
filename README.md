@@ -18,6 +18,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with getting started in machine learning and artificial intelligence.
 - 💬 Ask me about web development, backend technologies, or college life as a developer.
 - 📫 How to reach me:
+  
    You can reach me via email at **kajal.sinha@yahoo.com**
   
    You can reach me via linked.in at **https://www.linkedin.com/in/kajal-sinha-37084b257**.
