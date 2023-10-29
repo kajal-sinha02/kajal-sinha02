@@ -13,9 +13,9 @@ Here are some ideas to get you started:-->
 # About Me
 
 - 🌱 I’m currently a 2-year college student, passionate about **web and app backend development**.
-- 
+  
 - 💬 Ask me about web development, backend technologies, or college life as a developer.
-- 
+  
 - 🤔 I’m looking for help with getting started in machine learning and artificial intelligence.
 
 <h2>Connect with me</h2> 
