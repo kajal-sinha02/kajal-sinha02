@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Sinha</h1>
 
-<h4 align="center">I'm a passionate tech enthusiast who loves to code and explore new technologies</h4>
+<h2>I'm a passionate tech enthusiast who loves to code and explore new technologies</h2>
 
 <h2>About me</h2>
 
