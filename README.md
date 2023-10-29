@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub profile! 
 
-**I'm a passionate tech enthusiast who loves to code and explore new technologies. Here, you'll find some of my projects, contributions, and interests.**
+**I'm a passionate tech enthusiast who loves to code and explore new technologies. Here, you'll find about my projects and interests.**
 
 <!--
 **kajal-sinha02/kajal-sinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
