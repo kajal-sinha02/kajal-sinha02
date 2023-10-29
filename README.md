@@ -1,7 +1,10 @@
-
-<center>
-
-# Hi there! 👋 I'm Kajal
+<html>
+<head>
+    <script src="https://kit.fontawesome.com/e40b1abb98.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Your Markdown content here -->
+  # Hi there! 👋 I'm Kajal
 
 </center>
 
@@ -32,6 +35,11 @@ Here are some ideas to get you started:-->
 </a>
 
 Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊
+
+</body>
+</html>
+<center>
+
 
 
 
