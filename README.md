@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kajal Sinha</h1>
 
+
 <h4 align="center">I'm a passionate tech enthusiast who loves to code and explore new technologies</h4>
+
 
 
 <!--
 **kajal-sinha02/kajal-sinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+
 
 <h2>About me</h2>
 
@@ -15,6 +18,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about web development, backend technologies, or college life as a developer.
   
 - 🤔 I’m looking forward to explore machine learning and artificial intelligence.
+
   
 <h2>Languages and Tools:</h2>
 <p align="left">
@@ -53,8 +57,11 @@ Here are some ideas to get you started:-->
 
 </p>
 
+
 <h2>Connect with me</h2>
+
 <h4>Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊 </h4>
+
 
 
 <p align="left">
