@@ -25,14 +25,39 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with getting started in machine learning and artificial intelligence.
 
 <h2>Connect with me</h2> 
-  <a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==">
-    <i class="fab fa-instagram"></i>
+
+To generate icon links for Instagram, LinkedIn, and email in a README.md file, you can use Font Awesome icons and HTML. Here's a step-by-step guide on how to create these links in your README.md:
+
+Include Font Awesome in your README.md as previously mentioned. Here's the code to include Font Awesome:
+
+markdown
+Copy code
+<html>
+<head>
+    <script src="https://kit.fontawesome.com/YOUR_KIT_ID.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Your Markdown content here -->
+</body>
+</html>
+Replace YOUR_KIT_ID with your actual Kit ID.
+
+Create icon links for Instagram, LinkedIn, and email using HTML. You can use Font Awesome icons for Instagram and LinkedIn. For email, you can use the "@" symbol as an icon. Here's an example of how to create these links:
+
+markdown
+Copy code
+<a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==">
+    <i class="fab fa-instagram"></i> Instagram
 </a>
+
 <a href="https://www.linkedin.com/in/kajal-sinha-37084b257">
-    <i class="fab fa-linkedin"></i>
+    <i class="fab fa-linkedin"></i> LinkedIn
 </a>
+
 <a href="mailto:kajal.sinha@yahoo.com">
-    <i class="fas fa-at"></i> 
+    <i class="fas fa-at"></i> Email
+</a>
+
 </a>
 
 Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊
