@@ -25,10 +25,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kajal-sinha-37084b257 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a><a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajal-sinha02&show_icons=true&locale=en&layout=compact" alt="kajal-sinha02" /></p>
-
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajal-sinha02&" alt="kajal-sinha02" /></p>
 
 
