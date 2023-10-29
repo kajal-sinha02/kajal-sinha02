@@ -26,21 +26,6 @@ Here are some ideas to get you started:-->
 
 <h2>Connect with me</h2> 
 
-To generate icon links for Instagram, LinkedIn, and email in a README.md file, you can use Font Awesome icons and HTML. Here's a step-by-step guide on how to create these links in your README.md:
-
-Include Font Awesome in your README.md as previously mentioned. Here's the code to include Font Awesome:
-
-markdown
-Copy code
-<html>
-<head>
-    <script src="https://kit.fontawesome.com/YOUR_KIT_ID.js" crossorigin="anonymous"></script>
-</head>
-<body>
-    <!-- Your Markdown content here -->
-</body>
-</html>
-
 <a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==">
     <i class="fab fa-instagram"></i> Instagram
 </a>
@@ -51,8 +36,6 @@ Copy code
 
 <a href="mailto:kajal.sinha@yahoo.com">
     <i class="fas fa-at"></i> Email
-</a>
-
 </a>
 
 Feel free to connect with me; I'm always up for a good coding conversation or sharing travel stories. 😊
