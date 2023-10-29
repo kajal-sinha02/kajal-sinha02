@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
   
 - 🤔 I’m looking for help with getting started in machine learning and artificial intelligence.
 
-<h2>Connect with me</h2> 
+# Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kajal-sinha-37084b257 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/kajall_sinha?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
