@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Sinha</h1>
 <h3 align="center">**I'm a passionate tech enthusiast who loves to code and explore new technologies.**</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikjha93&label=Profile%20views&color=0e75b6&style=flat" alt="ritikjha93" /> </p>
-
 -🔭 I’m currently working on **web and app development**
 <!--
 **kajal-sinha02/kajal-sinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
